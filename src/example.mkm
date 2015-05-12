@@ -1,0 +1,7 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="file:///Users/xyz/Sites/playground/tencentInterview/src/example.png">
+  <Marks>
+    <ColorMark x="907" y="99" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="888" y="115" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="904" y="115" color="16711680" offsetX="24" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+  </Marks>
+</MKM>
